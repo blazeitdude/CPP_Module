@@ -25,7 +25,7 @@
 >• Template constructions
 >• working with containers
 
-## Repository structure
+## Compile
 to build a project<br/>
 `$ make`<br/>
 to build the bonus part<br/>
@@ -37,7 +37,7 @@ to delete %.o and the library<br/>
 to rebuild the project<br/>
 `$ make re`<br/>
 
-## Use
+## Repository structure
 
 ```
 .
